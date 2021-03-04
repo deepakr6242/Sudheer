@@ -5,4 +5,4 @@
                     smtp
                     dateutil
                     yaml
-2. python demo.py
+2. python checkportal.py
